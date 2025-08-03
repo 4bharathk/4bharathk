@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">A passionate cloud backend developer on quest for knowledge.</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **ReactJS, AI**
 
-- 💬 Ask me about **REST**
+- 💬 Ask me about **REST, SpringBoot, Java, Kafka, Docker, AWS**
 
 - 📫 How to reach me **4bharathk@gmail.com**
 
