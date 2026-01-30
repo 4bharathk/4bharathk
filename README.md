@@ -44,9 +44,10 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
 <p align="center">
-<a href="https://dev.to/kbharath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pemtajo" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedromaraujo" height="30" width="30" /></a>
-<a href= "mailto:4bharathk@gmail.com">Email </a>
+<a href="https://dev.to/kbharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href= "mailto:4bharathk@gmail.com">Email
+ </a>
 <!--
 <a href="https://medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pemtajo" height="30" width="30" /></a>
 -->
