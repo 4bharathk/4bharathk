@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Bharath;+Welcome+to+My+Profile!;AWS+Cloud+Soution+Engineer;Frontend+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Bharath;+Welcome+to+My+Profile!;AWS+Cloud+Soution+Engineer;AI+enthusiast)](https://git.io/typing-svg)
 
 
 <h3 align="center">A Adaptively Skilled programmer in a upgrading loop with new tech skills </h3>
@@ -10,9 +10,11 @@
 
 <br />
 
-<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+## 🎓 Certificates & Trainings 
+
+[Badges on Credly.com](https://www.credly.com/users/bharath-k.b1245beb/badges#credly). 
 <!--START_SECTION:badges-->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e7244b72-c87c-47ae-8b2d-d398824ea2d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--END_SECTION:badges-->
 
 <!--
