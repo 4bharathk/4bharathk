@@ -1,16 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Bharath;+Welcome+to+My+Profile!;AWS+Cloud+Soution+Engineer;AI+enthusiast)](https://git.io/typing-svg)
+💫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Bharath;+Welcome+to+My+Profile!;AWS+Cloud+Soution+Engineer;AI+enthusiast)](https://git.io/typing-svg)
 
-
-<h3 align="center">A Adaptively Skilled programmer in a upgrading loop with new tech skills </h3>
+<h3 align="center">  A Adaptively Skilled programmer in a upgrading loop with new tech skills </h3>
 
 - 🌱 I’m currently exploring **ReactJS, AI**
 
 - 💬 Ask me about **REST, SpringBoot, Java, Kafka, K8s, AWS**
 
 
-<br />
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4bharathk/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@4bharathk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white)](https://4bharathk.github.io/base-portfolio/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-000000?logo=dev&logoColor=white)](https://dev.to/kbharath)
+
+
 
 ## 🎓 Certificates & Trainings 
+
 <img width="100" height="100" alt="awssassociatearchitect" src="https://github.com/user-attachments/assets/6be50d6d-f48a-4f1e-918b-842beda24cd3" />
 <img width="100" height="100" alt="aws-well-architected" src="https://github.com/user-attachments/assets/aad264b0-26b3-4d16-ae37-1aa1f9f9c4ef" />
 <img width="100" height="100" alt="awscloudpractitioner" src="https://github.com/user-attachments/assets/2577fc48-5b71-4df0-b9ab-48a82c4e34fe" />
@@ -27,6 +35,8 @@
 <!--
 -->
 <br />
+
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
